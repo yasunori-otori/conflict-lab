@@ -4,7 +4,7 @@ import "fmt"
 
 func main() {
 	fmt.Println("a")
-	fmt.Println("b")
+	fmt.Println("e")
 	fmt.Println("c")
 }
 
@@ -13,7 +13,7 @@ func FuncA() {
 }
 
 func FuncB() {
-	fmt.Println("Func B")
+	fmt.Println("Func E")
 }
 
 func FuncC() {
