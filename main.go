@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("a")
+	fmt.Println("d")
 	fmt.Println("b")
 	fmt.Println("c")
 }
@@ -12,7 +12,7 @@ func FuncA() {
 	fmt.Println("Func A")
 }
 
-func FuncB() {
+func FuncD() {
 	fmt.Println("Func B")
 }
 
