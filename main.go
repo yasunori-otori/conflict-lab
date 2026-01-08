@@ -8,6 +8,10 @@ func main() {
 	fmt.Println("c")
 }
 
+func FuncA() {
+	fmt.Println("Func A")
+}
+
 func FuncB() {
 	fmt.Println("Func B")
 }
