@@ -8,14 +8,14 @@ func main() {
 	fmt.Println("c")
 }
 
-func FuncA() {
+func FuncD() {
 	fmt.Println("Func A")
 }
 
-func FuncB() {
+func FuncE() {
 	fmt.Println("Func B")
 }
 
-func FuncC() {
+func FuncF() {
 	fmt.Println("Func C")
 }
