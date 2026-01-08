@@ -11,3 +11,7 @@ func main() {
 func FuncB() {
 	fmt.Println("Func B")
 }
+
+func FuncC() {
+	fmt.Println("Func C")
+}
