@@ -9,13 +9,5 @@ func main() {
 }
 
 func FuncA() {
-	fmt.Println("Func D")
-}
-
-func FuncB() {
-	fmt.Println("Func E")
-}
-
-func FuncC() {
-	fmt.Println("Func F")
+	fmt.Println("Func A")
 }
