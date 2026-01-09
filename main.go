@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func mainT() {
 	fmt.Println("a")
 	fmt.Println("b")
 	fmt.Println("c")
